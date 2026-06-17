@@ -1,0 +1,15 @@
+{
+  "name": "fleet-telemetry-simulator",
+  "version": "1.0.0",
+  "main": "simulator.js",
+  "scripts": {
+  "start": "node simulator.js"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.18.0"
+  }
+}
