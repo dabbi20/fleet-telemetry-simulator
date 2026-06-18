@@ -344,7 +344,7 @@ Se decidió mantener una simulación simple basada en pequeños cambios aleatori
 
 Enlace:
 
-PENDIENTE
+https://youtu.be/HmQwG2waTMU
 
 ---
 
